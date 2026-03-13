@@ -2,8 +2,6 @@
 
 Force EU servers in Overwatch 2 — blocks all non-EU regions.
 
-## Download
-👉 [Download latest .exe from Releases](../../releases/latest)
 
 ## Features
 - Blocks 11 non-EU regions (ME, Korea, Japan, Taiwan, Singapore, NA, Australia, Brazil, Finland 2)
