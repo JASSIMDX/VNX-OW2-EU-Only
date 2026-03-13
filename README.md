@@ -20,6 +20,12 @@ Force EU servers in Overwatch 2 — blocks all non-EU regions.
 4. Restart Overwatch 2
 5. Play — EU servers only
 
+## Disclaimer
+This tool does not modify, hack, or inject into any game files.
+It only manages standard Windows Firewall rules that any user
+can configure manually. Use at your own risk. This project is
+not affiliated with or endorsed by Blizzard Entertainment.
+Overwatch is a trademark of Blizzard Entertainment, Inc.
 
 ## Created by
 **VNX Group | VNX JASSIMDX**
